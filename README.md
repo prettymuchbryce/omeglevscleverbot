@@ -25,4 +25,4 @@ I've only tested this on osx.
     
 Thanks
 ------
-Thanks to creators and maintainers of the romegle, and cleverbot-api gems. They did the hard work, I just hacked them together.
+Thanks to creators and maintainers of the romegle, and cleverbot-api gems. They did the hard work, I just hacked their work together.
